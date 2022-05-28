@@ -1,5 +1,5 @@
 ---
-- name: Vector | Start vector service
+- name: Vector | Restart vector service
   become: true
   ansible.builtin.service:
     name: vector
