@@ -6,7 +6,9 @@ Vector role
 Requirements
 ------------
 
-
+Поддержка ОС:
+- ubuntu
+- centos
 
 Role Variables
 --------------
